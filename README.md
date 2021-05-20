@@ -15,7 +15,6 @@ Problem : From the ‘Iris’ dataset, predict the optimum number of clusters an
 
 Data can be found at : https://bit.ly/3kXTdox
 
-
 -----
 
 Task3 : Exploratory Data Analysis - Retail
@@ -23,3 +22,9 @@ Task3 : Exploratory Data Analysis - Retail
 Problem : Perform ‘Exploratory Data Analysis’ on dataset ‘SampleSuperstore’
 
 Data can be found at : https://bit.ly/3i4rbWl
+
+-----
+
+Task4 : Exploratory Data Analysis - Terorrism
+Problem : Perform ‘Exploratory Data Analysis’ on dataset ‘Global Terrorism’ 
+Data can be found at : https://bit.ly/2TK5Xn5
