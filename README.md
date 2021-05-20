@@ -30,3 +30,11 @@ Task4 : Exploratory Data Analysis - Terorrism
 Problem : Perform ‘Exploratory Data Analysis’ on dataset ‘Global Terrorism’ 
 
 Data can be found at : https://bit.ly/2TK5Xn5
+
+-----
+
+Task6 : Prediction using Decision Tree Algorithm
+
+Problem : Create a Decision Tree classifier and visualize it graphically, on the Iris Dataset
+
+Data can be found at : https://bit.ly/3kXTdox
