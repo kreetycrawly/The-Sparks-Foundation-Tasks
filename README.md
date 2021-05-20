@@ -14,3 +14,12 @@ Task2 : Prediction using Unupervised ML (KMeans clustering)
 Problem : From the ‘Iris’ dataset, predict the optimum number of clusters and represent them visually. 
 
 Data can be found at : https://bit.ly/3kXTdox
+
+
+-----
+
+Task3 : Exploratory Data Analysis - Retail
+
+Problem : Perform ‘Exploratory Data Analysis’ on dataset ‘SampleSuperstore’
+
+Data can be found at : https://bit.ly/3i4rbWl
